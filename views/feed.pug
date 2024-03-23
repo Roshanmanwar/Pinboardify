@@ -15,8 +15,9 @@ html(lang="en")
 			a.profile.btn.btn-primary.btn-sm(href="/") Profile
 			a.btn.btn-danger.btn-sm(href="/logOut") log out
 			h4.text-primary ALL POSTS :
-
 		.cards 
+		
+
 			each post in posts			
 				.card
 					img.card-img-top(src=`/images/${post.image}`, alt="...")
