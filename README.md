@@ -22,7 +22,7 @@ Pinbordify is a social media platform project built with Express, Node.js, Mongo
 - **File Uploads**: Multer middleware
 
 
-# This is Register Page
+# Register Page
 <img src="https://github.com/Roshanmanwar/Pinboardify/blob/main/Screenshots/register.JPG"/>
 
 To start using Pinbordify, you'll need to create a new account by registering. This process involves providing some basic information and ensuring that your email address is unique within our system.
@@ -62,7 +62,7 @@ Notes
 
 
 
-# This is Profile Page
+# Profile Page
 <img src="https://github.com/Roshanmanwar/Pinboardify/blob/main/Screenshots/profile.JPG"/>
 <img src="https://github.com/Roshanmanwar/Pinboardify/blob/main/Screenshots/your post.JPG"/>
 
