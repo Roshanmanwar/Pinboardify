@@ -1,5 +1,5 @@
 ## Project Title  : # Pinbordify
-
+<img src="https://github.com/Roshanmanwar/Pinboardify/blob/main/Screenshots/profile.JPG"/>
 
 Pinbordify is a social media platform project built with Express, Node.js, MongoDB, and Pug template engine. It allows users to create accounts, share posts, interact with posts through likes, manage their profiles, and explore a feed of posts from other users.
 
